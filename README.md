@@ -13,17 +13,9 @@ Este é um aplicativo interativo de linha de comando (CLI) para gerenciamento de
 
 ## Instalação
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/app-de-metas.git
-   
-2. Navegue até o diretório do projeto:
-   ```bash
-     cd app-de-metas
-   
-3. Instale as dependências:
-   ```bash
-     npm install
+1. Clone este repositório.   
+2. Navegue até o diretório do projeto.   
+3. Instale as dependências.   
    
 ## Como usar
 1. Execute o aplicativo de metas via terminal:
