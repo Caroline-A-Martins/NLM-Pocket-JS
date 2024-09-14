@@ -27,6 +27,11 @@ const cadastrarMeta = async () => {
         return
     }
 
+    if (metas.some((m) => m.value === meta)) {
+        mensagem = 'Essa meta já existe.'
+        return
+    }
+
     metas.push(
         { value: meta, checked: false }
     )

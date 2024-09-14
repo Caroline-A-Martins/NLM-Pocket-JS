@@ -6,3 +6,4 @@
 - [x] Remover metas
 - [x] Sistema de mensagem
 - [x] Sistema de carregar e salvar metas
+- [x] Verificar se meta já existe
