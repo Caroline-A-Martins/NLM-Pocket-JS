@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Beber 2L de água por dia",
+    "checked": true
+  },
+  {
+    "value": "Andar de bicicleta",
+    "checked": true
+  },
+  {
+    "value": "Estudar Inglês",
+    "checked": false
+  },
+  {
+    "value": "Ler 1 livro por mês",
+    "checked": false
+  },
+  {
+    "value": "Correr 15 min por dia",
+    "checked": true
+  }
+]
